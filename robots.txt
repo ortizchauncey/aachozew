@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phongaesh.wesleyhouse.co.kr/sitemap.xml
